@@ -11,7 +11,7 @@ public class Java1 {
  {
   if (n == 1) return a;
   return a * mystery(n-1,a);
- 
+ //reema//
  }
  
  }
